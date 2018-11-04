@@ -21,3 +21,5 @@ Check there before posting your own questions and feel free to add questions and
 * [openHAB 2 FAQs at community.openhab.org](https://community.openhab.org/t/frequently-asked-questions/17727)
 
 {% include contribution-wanted.html %}
+
+#New line added
