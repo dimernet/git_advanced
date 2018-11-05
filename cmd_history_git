@@ -1,0 +1,483 @@
+    1  ifconfig 
+    2  exi
+    3  vi
+    4  ls
+    5  find .|more
+    6  ls
+    7  npm install -g create-react-native-app
+    8  create-react-native-app AwesomeProject
+    9  exit
+   10  ls -l
+   11  cd meteor
+   12  mkdir meteor
+   13  cd meteor/
+   14  curl https://install.meteor.com/ | sh
+   15  ls -l
+   16  cd
+   17  cd .meteor/
+   18  ls -l
+   19  cd
+   20  cd meteor/
+   21  ls -l
+   22  meteor create simple-todos
+   23  cd simple-todos/
+   24  ls -l
+   25  meteor
+   26  cd
+   27  cd .meteor
+   28  ls --l
+   29  ls -l
+   30  file meteor 
+   31  cd package
+   32  cd packages/
+   33  ls -l
+   34  cd service-configuration/
+   35  ls -l
+   36  vi 1.0.11
+   37  cd 1.0.11
+   38  ls -l
+   39  cd
+   40  find . -name "settings.json"
+   41  cd meteor/
+   42  cd simple-todos/
+   43  ls -l
+   44  cd client/
+   45  ls -l
+   46  vi main.
+   47  vi main.html 
+   48  exit
+   49  cd /Users
+   50  ls
+   51  cd GT
+   52  cd Library/
+   53  ls -l 
+   54  cd LaunchAgents/
+   55  ls -l
+   56  git
+   57  exit
+   58  cd flutter/
+   59  ls -l
+   60  cd bin
+   61  ./flutter doctor
+   62  flutter config --no-analytics
+   63  ./flutter config --no-analytics
+   64  ex
+   65  ls
+   66  cd meteor/
+   67  ls
+   68  cd rfid/
+   69  meteor run ios
+   70  cd flutter/
+   71  cd bin/
+   72  ./flutter doctor
+   73  java -version
+   74  xcrun simctl io booted recordVideo appvideo.mov
+   75  ls -l
+   76  ls -l /usr/local
+   77  ls -lrt /usr/local/mysql
+   78  ls -l /Library/StartupItems/
+   79  ls -l /Library/StartupItems/MySQLCOM
+   80  view /etc/hostconfig
+   81  exit
+   82  ps -ef|grep my
+   83  netstat -anp|grep 3306
+   84  netstat -an|grep 3306
+   85  java -version
+   86  javac -version
+   87  cd Work/
+   88  cd Sirius/
+   89  ls -l
+   90  cd Collections/Code/
+   91  ls -l
+   92  vi config_collections_scenario_810.nap 
+   93  ls -l
+   94  vi pin.conf.tmpl 
+   95  cd ../utr/
+   96  ls -l
+   97  vi exmpt_fl 
+   98  vi acct_Create.pl 
+   99  vi https://www.boscia.com/shop/index.php?LOGOUT=true
+  100  vi bill_fl 
+  101  vi esn_f 
+  102  vi log_invoice_m 
+  103  cd ut1
+  104  ls -l
+  105  vi account_create 
+  106  vi acct_d61_aft_pda 
+  107  cd ..
+  108  ls -l
+  109  cd ..
+  110  ls -l
+  111  cd Code/
+  112  ls -l
+  113  vi config_collections_scenario_811.nap 
+  114  vi new.swift
+  115  ls -lrt
+  116  whcih php
+  117  which php
+  118  ipconfig 
+  119  ipconfig -a
+  120  ifcoonfig
+  121  ifconfig
+  122  ifconfig -a
+  123  ifconfig -a
+  124  ifconfig -a
+  125  ifconfig -a
+  126  ipconfig -a
+  127  ifconfig
+  128  clear
+  129  ifconfig|more
+  130  ifconfig -a|more
+  131  /Users/GT/arduino/magicmirror/serproxy ; exit;
+  132  /Users/GT/arduino/magicmirror/serproxy ; exit;
+  133  ifconfig -a
+  134  ssh 172.16.0.17
+  135  cd Downloads/
+  136  ls -lrt
+  137  cd
+  138  mkdir aws_brm
+  139  cd Downloads/
+  140  cp obrmpoc.pem ~/aws_brm/
+  141  cd
+  142  cd aws_brm/
+  143  ls -l
+  144  chmod go-rw obrmpoc.pem 
+  145  ls -lt
+  146  ssh -i obrmpoc.pem ec2-user@ec2-34-217-123-130.us-west-2.compute.amazonaws.com
+  147  ssh -i obrmpoc.pem integrate@ec2-34-217-123-130.us-west-2.compute.amazonaws.com
+  148  pwd
+  149  ssh -i obrmpoc.pem ec2-user@ec2-34-217-123-130.us-west-2.compute.amazonaws.com
+  150  cd aws_brm/
+  151  ls -lrt
+  152  ssh -i obrmpoc.pem ec2-user@ec2-34-217-123-130.us-west-2.compute.amazonaws.com
+  153  git -version
+  154  git --version
+  155  cd
+  156  ls -la
+  157  cd .ssh/
+  158  ls -l
+  159  ls -la
+  160  ssh-keygen -t rsa -b 4096 -C "pkmuth@yahoo.com"
+  161  ls -l
+  162  cat id_rsa.pub 
+  163  pwd
+  164  cd
+  165  mkdir git_repos
+  166  cd git_repos/
+  167  ls -lrt
+  168  clear
+  169  ls -lrt
+  170  git clone git@github.com:dimernet/git_advanced.git .
+  171  ls -lrt
+  172  ls -la
+  173  ls -lrt
+  174  cd ..
+  175  ls -lrt
+  176  cd git_repos/
+  177  ls -lrt
+  178  cd ..
+  179  ls -lrt
+  180  rm -Rf git_repos
+  181  mkdir git_repos
+  182  ls -lrt
+  183  cd git_repos/
+  184  ls -lt
+  185  mkdir git_advanced
+  186  mkdir git_openhab
+  187  mkdir git_rnd
+  188  cd git_advanced/
+  189  ls -lrt
+  190  cd ../git_openhab/
+  191  ls -lt
+  192  git clone git@github.com:openhab/openhab-docs.git .
+  193  cd ../git_advanced/
+  194  ls -lat
+  195  ls -lart
+  196  git clone git@github.com:dimernet/git_advanced.git .
+  197  cd ../git_openhab/
+  198  ls -lrt
+  199  ls -lR|more
+  200  cp -R ./appendix/ ../git_advanced/
+  201  cp -R ./community/ ../git_advanced/
+  202  cd ../git_advanced/
+  203  ls -lrt
+  204  git status .
+  205  rm -f contributing.md 
+  206  rm -f help.md 
+  207  cd ../git_openhab/
+  208  cp -R ./appendix ../git_advanced/
+  209  ls -l ../git_advanced/
+  210  cp -R community ../git_advanced/
+  211  cd ../git_advanced/
+  212  ls -lrt
+  213  git status .
+  214  git add appendix/
+  215  git add community/
+  216  git status .
+  217  git commit -m "baseline from open_hab"
+  218  git push
+  219  git config --list
+  220  git config --global user.name=
+  221  git config --global user.name=Muhammed
+  222  git config --global user.name "Muhammed Puthukattu"
+  223  git config --global user.email "pkmuth@hyahoo.com"
+  224  ls -lrt
+  225  vi README.md 
+  226  git status 
+  227  git add README.md 
+  228  git status
+  229  rm -f README.md 
+  230  git checkount README.md
+  231  git checkout README.md
+  232  ls -lrt
+  233  git status .
+  234  vi README.md 
+  235  date
+  236  git reset HEAD
+  237  ls -lrt
+  238  git status .
+  239  rm -f README.md 
+  240  git checkout README.md
+  241  git status .
+  242  ls -lrt
+  243  cat README.md 
+  244  vi README.md 
+  245  git status 
+  246  git add README.md 
+  247  git statu .
+  248  git status .
+  249  git commit -m "added comment"
+  250  git push
+  251  ls -lrt
+  252  cd appendix/
+  253  ls -lrt
+  254  git status .
+  255  vi help.md 
+  256  vi contributing.md 
+  257  cd ..
+  258  cd community/
+  259  ls -lrt
+  260  vi contributing.md 
+  261  cd ..
+  262  git status .
+  263  git add appendix/contributing.md 
+  264  git add appendix/help.md 
+  265  git add community/contributing.md 
+  266  git status .
+  267  git commit -m "changes made in the local repo"
+  268  git push
+  269  cd ..
+  270  find . -name "MANIFEST*"
+  271  find . -name "*MAN*"
+  272  ls -l
+  273  cd ..
+  274  ls -lrt
+  275  cd git_repos/
+  276  ls -lrt
+  277  cd git_rnd/
+  278  ls -la
+  279  git clone git@github.com:openhab/openhab-docs.git
+  280  ls -lrt
+  281  cd ../git_openhab/
+  282  ls -lrt
+  283  cd ..
+  284  ls -lrt
+  285  rm -Rf git_rnd/
+  286  mkdir git_rnd_01
+  287  cd git_rnd_01/
+  288  ls -lrt
+  289  git clone git@github.com:openhab/openhab-docs.git .
+  290  ls -lrt
+  291  git branch
+  292  git branch -a
+  293  git branch -help
+  294  git branch
+  295  git pull 
+  296  git pull --all
+  297  git checkout -b openhab_working
+  298  git branch
+  299  git branch -a
+  300  git pull 
+  301  pwd
+  302  vi ./.git/config 
+  303  git branch -set-upstream-to=git@github.com:dimernet/git_advanced.git/master openhab_working
+  304  git branch --set-upstream-to=git@github.com:dimernet/git_advanced.git/master openhab_working
+  305  ls -la
+  306  cd .git
+  307  ls -lrt
+  308  vi config 
+  309  git pull 
+  310  pwd
+  311  cd ..
+  312  git pull
+  313  git branch --set-upstream-to=blue/master openhab_working
+  314  cd ..
+  315  cd ./git_rnd_01/.git
+  316  ls -lrt
+  317  vi config 
+  318  git pull blue master
+  319  cd ..
+  320  git pull blue master
+  321  ls -lrt
+  322  cd appendix/
+  323  ls -lrt
+  324  vi contributing.md 
+  325  cd ..
+  326  git pull --help
+  327  git pull -f blue master
+  328  git pull -r blue master
+  329  git status .
+  330  git status .|more
+  331  vi README.md 
+  332  cd ..
+  333  ls -l
+  334  mkdir git_rnd_02
+  335  cd git_rnd_02
+  336  git clone --depth 0 git@github.com:openhab/openhab-docs.git .
+  337  git clone --depth 1 git@github.com:openhab/openhab-docs.git .
+  338  ls -l
+  339  pwd
+  340  git checkout -b new_br
+  341  git branch
+  342  git pull
+  343  pwd
+  344  git status .
+  345  git branch -a
+  346  cd .git
+  347  vi config 
+  348  ls -l
+  349  cd ..
+  350  git pull --all
+  351  cd ..
+  352  rm -Rf git_rnd_02
+  353  cd git_rnd_01/
+  354  ls -lrt
+  355  vi README.md 
+  356  cd ..
+  357  mkdir git_rnd_02
+  358  cd git_rnd_02/
+  359  ls -lrt
+  360  ls -la
+  361  git clone --depth 1 git@github.com:openhab/openhab-docs.git .
+  362  ls -lart
+  363  git pull --all
+  364  git branch -a
+  365  git branch --list
+  366  git branch --help
+  367  cd ..
+  368  mkdir git_rnd_03
+  369  cd git_rnd_03/
+  370  git clone git@github.com:openhab/openhab-docs.git .
+  371  ls -lrt
+  372  git branch -a
+  373  cd ../git_rnd_02/
+  374  git branch -a
+  375  git checkout -b new_blue
+  376  git branch
+  377  git pull --all
+  378  cd .git
+  379  vi config \
+  380  vi config 
+  381  cd ..
+  382  git pull origin_blue master
+  383  ls -lrt
+  384  vi README.md 
+  385  git fetch origin_blue master
+  386  ls -lrt
+  387  date
+  388  vi README.md 
+  389  git branch -a
+  390  git reset origin/new_blue
+  391  git checkout -t origin_blue/master
+  392  git checkout origin_blue/master
+  393  git checkout origin_blue/new_blue
+  394  git checkout new_blue
+  395  git reset origin_blue/master
+  396  git pull origin_blue master
+  397  git branch --help
+  398  git branch --help
+  399  git branch --help
+  400  git branch --help
+  401  git branch -u origin_blue/master bb01
+  402  git branch bb01 -u origin_blue/master 
+  403  git branch --help
+  404  git branch
+  405  git --unset-upstream
+  406  git branch --unset-upstream
+  407  git -u origin_blue/master
+  408  git branch -u origin_blue/master
+  409  git fetch origin_blue/master
+  410  git fetch origin_blue master
+  411  git branch -u origin_blue/master
+  412  git branch -u origin_blue master
+  413  git branch --list
+  414  git branch -a
+  415  cd ..
+  416  ls -lrt
+  417  rm -Rf git_rnd_01 git_rnd_02 git_rnd_03
+  418  ls -lrt
+  419  mkdir git_rnd
+  420  cd git_rnd/
+  421  git clone git@github.com:openhab/openhab-docs.git .
+  422  ls -lrt
+  423  ls -lrt
+  424  pwd
+  425  cd .git
+  426  ls -lrt
+  427  cd ..
+  428  ls -lart
+  429  rm -Rf .git
+  430  ls -lart
+  431  git init
+  432  ls -lrt
+  433  ls -lart
+  434  cd .git
+  435  ls -lrt
+  436  ls -lart
+  437  vi config 
+  438  cd ..
+  439  git add origin git@github.com:dimernet/git_advanced.git
+  440  git remote add origin git@github.com:dimernet/git_advanced.git
+  441  ls -lrt
+  442  cd .git
+  443  ls -lrt
+  444  vi config 
+  445  cd ..
+  446  git fetch
+  447  git status .
+  448  git reset origin/master
+  449  git git status .
+  450  git status .
+  451  git diff README.md
+  452  git branch -a
+  453  git checkout -t origin/master
+  454  git pull --all
+  455  git branch --set-upstream-to=origin/master master
+  456  git pull --all
+  457  git status .
+  458  git pull --all
+  459  rm -f .gitignore 
+  460  git checkout .gitignore
+  461  git status .
+  462  git pull --all
+  463  git status .
+  464  git stash
+  465  git status .
+  466  vi README.md 
+  467  git stash --list
+  468  git stash list
+  469  git stash drop
+  470  git stash list
+  471  git stash pop 0
+  472  ls -lrt
+  473  cd appendix/
+  474  ls -lrt
+  475  vi help.md 
+  476  cd ..
+  477  git status .
+  478  git add appendix/help.md 
+  479  git status .
+  480  git commit -m "try_on commit point 01"
+  481  git push
+  482  history 
+  483  history > cmd_history_git
